@@ -24,4 +24,3 @@ double monthsPayment = TotalWithInterest / monthsCount;
 
 Console.WriteLine($"Цена ноутбука: {laptopPrice} руб.");
 Console.WriteLine($"Итого с процентами: {totalWithInterest} руб.");
-Console.WriteLine($"Платеж в месяц: {montlyPayment} руб.");
